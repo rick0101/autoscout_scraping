@@ -1,4 +1,4 @@
-The following program "Scraping_autoscout_Tesla.py" allows you to scrape the autoscout site "https://www.autoscout24.it" in order to organize all the ads in a excel sheet with the following specifications: Prices, Year, Model, Km, Title, Link.
+The following program "Scraping_autoscout_Tesla.py" allows you to scrape the autoscout site "https://www.autoscout24.it" in order to organize all the ads in a excel sheet with the following specifications: Price, Year, Model, Km, Title, Link.
 
 **IMPORTANT**
 
