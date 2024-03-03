@@ -91,14 +91,10 @@ urls = "https://www.autoscout24.it/lst/tesla/model-s?atype=C&page=1&search_id=rh
 urlx = "https://www.autoscout24.it/lst/tesla/model-x?atype=C&page=1&search_id=gyp2wpw5qh&source=listpage_pagination"
 
 
-while True:
-    carica_dati(url3)
-    carica_dati(urly)
-    carica_dati(urls)
-    carica_dati(urlx)
 
-    print ("Finito!")
+carica_dati(url3)
+carica_dati(urly)
+carica_dati(urls)
+carica_dati(urlx)
 
-    t = time.localtime()
-    print ("Time last check:", (time.strftime("%H:%M:%S", t)))
-    time.sleep(3600)
+print ("Finito!")
