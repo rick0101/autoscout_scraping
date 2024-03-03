@@ -14,8 +14,12 @@ You also need git to clone this repository, but, if you don't have it, you can a
 
 
 1 - *git clone https://github.com/rick0101/autoscout_scraping.git*
+
 Then, you need to open a terminal in this the folder "autoscout_scraping" and run this commands one by one: 
+
 2 - *./venv/Scripts/activate* 
+
 3 - *pip install -r ./requirements.txt*
+
 4 - *python Scraping_autoscout_Tesla.py*
 
